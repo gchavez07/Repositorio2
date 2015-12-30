@@ -1,3 +1,5 @@
+3 Linea agregada para revisar el archivo que solo se agrego pero no se le dio commit al anterior
+
 2Linea agregada posterior a agregar el archivo(para que pasara a tracked y commited)
 
 1Archivo original agregado para validar el estatus de la carpeta repositorio
