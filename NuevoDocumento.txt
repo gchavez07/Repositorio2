@@ -1,1 +1,3 @@
-Archivo original agregado para validar el estatus de la carpeta repositorio
+2Linea agregada posterior a agregar el archivo(para que pasara a tracked y commited)
+
+1Archivo original agregado para validar el estatus de la carpeta repositorio
